@@ -1,0 +1,9 @@
+*,
+*::after,
+*::before {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
